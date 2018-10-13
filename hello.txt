@@ -1,4 +1,12 @@
 chao
+<<<<<<< HEAD
 biti
 dev bao
 tronghoa
+=======
+<<<<<<< HEAD
+biti
+=======
+Duc
+>>>>>>> suaten
+>>>>>>> suaten
